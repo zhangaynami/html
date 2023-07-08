@@ -1,0 +1,393 @@
+.main {
+    height: 463px;
+    width: 970px;
+    margin-left: 230px;
+
+}
+
+.main .foucs ul li img {
+    float: left;
+    margin-top: 3px;
+    width: 721px;
+    height: 460px;
+
+}
+
+.main .newflashs {
+    float: right;
+
+    margin-top: 3px;
+    width: 240px;
+    height: 460px;
+
+}
+
+.main .newflashs .news {
+    height: 160px;
+    border: 1px solid red;
+
+}
+
+.main .newflashs .lifeservice {
+    height: 209px;
+    border: 1px solid red;
+    margin-top: -1px;
+}
+
+.main .newflashs .bargain img {
+    height: 75px;
+    margin-top: 11px;
+    width: 240px;
+}
+
+.main .newflashs .news .news-hb {
+    height: 32px;
+    border-bottom: 1px dotted red;
+}
+
+.main .newflashs .news .news-hb h5 {
+    float: left;
+    margin-left: 15px;
+    line-height: 32px;
+}
+
+.main .newflashs .news .news-hb a {
+    float: right;
+    margin-right: 15px;
+    line-height: 32px;
+}
+
+.main .newflashs .news .news-bd ul li {
+    margin-top: 3px;
+    height: 30px;
+    margin-left: 5px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.main .newflashs .lifeservice {
+    border: 1px solid red;
+    border-top: 0;
+}
+
+.main .newflashs .lifeservice ul li {
+    height: 70px;
+    width: 58px;
+    float: left;
+    text-align: center;
+
+}
+
+.main .newflashs .lifeservice ul li:nth-child(1) i {
+    display: inline-block;
+    width: 25px;
+    height: 28px;
+    background: url(../images/icons.png) -15px -16px no-repeat;
+    margin-top: 12px;
+
+}
+
+.main .newflashs .lifeservice ul li:nth-child(2) i {
+    display: inline-block;
+    width: 24px;
+    height: 28px;
+    background: url(../images/icons.png) -80px -19px no-repeat;
+    margin-top: 12px;
+
+}
+
+.main .newflashs .lifeservice ul li:nth-child(3) i {
+    display: inline-block;
+    width: 26px;
+    height: 28px;
+    background: url(../images/icons.png) -140px -18px no-repeat;
+    margin-top: 12px;
+
+}
+
+.main .newflashs .lifeservice ul li:nth-child(4) i {
+    display: inline-block;
+    width: 40px;
+    height: 28px;
+    background: url(../images/icons.png) -195px -16px no-repeat;
+    margin-top: 12px;
+
+}
+
+.main .newflashs .lifeservice ul li:nth-child(5) i {
+    display: inline-block;
+    width: 25px;
+    height: 28px;
+    background: url(../images/icons.png) -15px -85px no-repeat;
+    margin-top: 12px;
+
+}
+
+.main .newflashs .lifeservice ul li:nth-child(6) i {
+    display: inline-block;
+    width: 24px;
+    height: 28px;
+    background: url(../images/icons.png) -80px -85px no-repeat;
+    margin-top: 12px;
+
+}
+
+.main .newflashs .lifeservice ul li:nth-child(7) i {
+    display: inline-block;
+    width: 26px;
+    height: 29px;
+    background: url(../images/icons.png) -140px -85px no-repeat;
+    margin-top: 12px;
+
+}
+
+.main .newflashs .lifeservice ul li:nth-child(8) i {
+    display: inline-block;
+    width: 30px;
+    height: 28px;
+    background: url(../images/icons.png) -200px -85px no-repeat;
+    margin-top: 12px;
+
+}
+
+.main .newflashs .lifeservice ul li:nth-child(9) i {
+    display: inline-block;
+    width: 25px;
+    height: 28px;
+    background: url(../images/icons.png) -15px -160px no-repeat;
+    margin-top: 12px;
+
+}
+
+.main .newflashs .lifeservice ul li:nth-child(10) i {
+    display: inline-block;
+    width: 24px;
+    height: 28px;
+    background: url(../images/icons.png) -79px -158px no-repeat;
+    margin-top: 12px;
+
+}
+
+.main .newflashs .lifeservice ul li:nth-child(11) i {
+    display: inline-block;
+    width: 26px;
+    height: 29px;
+    background: url(../images/icons.png) -140px -156px no-repeat;
+    margin-top: 12px;
+
+}
+
+.main .newflashs .lifeservice ul li:nth-child(12) i {
+    display: inline-block;
+    width: 30px;
+    height: 28px;
+    background: url(../images/icons.png) -200px -160px no-repeat;
+    margin-top: 12px;
+
+}
+
+.main .newflashs .bargain img {
+    margin-top: 14px;
+}
+
+.recommend {
+    margin-top: 10px;
+    height: 162px;
+}
+
+.recommend .recom-hd {
+    height: 100%;
+    width: 205px;
+    background: url(../images/今日推荐.png);
+    float: left;
+}
+
+.recommend .recom-bd {
+    width: 995px;
+    height: 100%;
+    /* background-color: grey; */
+    float: right;
+}
+
+.recommend .recom-bd ul {
+    margin-left: 15px;
+
+}
+
+.recommend .recom-bd ul li {
+    position: relative;
+    width: 245px;
+    height: 100%;
+
+    float: left;
+}
+
+.recommend .recom-bd ul li:nth-child(-n+3):after {
+    content: "";
+    position: absolute;
+    right: 0;
+    top: 10px;
+    width: 1px;
+    height: 145px;
+    background-color: #fff;
+
+
+}
+
+.youlike {
+
+    height: 230px;
+    margin-top: 15px;
+    border: 1px red solid;
+}
+
+
+.youlike ul li:nth-child(-n+5) {
+
+    /* background-color: blue; */
+    border-right: solid 1px red;
+}
+
+.youlike ul li {
+    float: left;
+    width: 199px;
+    height: 230px;
+    text-align: center;
+
+
+
+}
+
+.youlike ul li a .img {
+    width: auto;
+    height: 90px;
+    line-height: 150px;
+    margin-top: 10px
+}
+
+.youlike ul li a .p {
+
+    padding-top: 60px;
+}
+
+.youlike ul li a .p h3 {
+    color: red;
+}
+
+.jiadian {
+    height: 485px;
+    margin-top: 15px;
+
+}
+
+.jiadian .box-hd {
+    height: 30px;
+    border-bottom: 2px red solid;
+}
+
+.jiadian .box-hd h4 {
+    color: red;
+    float: left;
+    line-height: 30px;
+    padding-left: 15px;
+    font-size: 16px;
+
+}
+
+.jiadian .box-hd ul {
+    float: right;
+    padding-right: 15px;
+}
+
+
+
+.jiadian .box-hd ul li:nth-child(even) {
+    width: 0;
+    height: 14px;
+    border: grey 1px solid;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 8px;
+}
+
+.jiadian .box-hd ul li {
+    float: left;
+    line-height: 30px;
+}
+
+.jiadian .box-bd {
+    height: 360px;
+    /* background-color: pink; */
+}
+
+.tab-list-item>div {
+    float: left;
+}
+
+.tab-list-item .tb1 {
+    width: 210px;
+    height: 360px;
+    background-color: #f9f9f9;
+}
+
+.tab-list-item .tb2 {
+    width: 330px;
+    height: 360px;
+
+}
+
+.tab-list-item .tb3 {
+    width: 219px;
+    height: 360px;
+    border-right: 1px solid grey;
+
+}
+
+.tab-list-item .tb4 {
+    width: 218px;
+    height: 359px;
+
+}
+
+.tab-list-item .tb5 {
+    width: 219px;
+    height: 360px;
+    border-left: 1px solid grey;
+
+}
+
+.tab-list-item .tb1 ul {
+    height: 110px;
+    width: 210px;
+
+}
+
+.tab-list-item .tb1 ul li {
+    float: left;
+    width: 85px;
+    height: 25px;
+    margin-left: 10px;
+    margin-top: 10px;
+    text-align: center;
+    line-height: 25px;
+    border-bottom: 1px solid grey;
+}
+
+.tab-list-item .tb1 .title {
+    margin-top: 15px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.tab-list-item .tb1 a .title a {
+    color: red;
+}
+
+.tab-list-item .tb1 a .img {
+
+    width: 152px;
+    height: 141px;
+    background-image: url(../upload/三星曲面电视.png);
+    margin: 20px auto;
+}

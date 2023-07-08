@@ -1,0 +1,58 @@
+{
+  "id": "4145404",
+  "name": "易优购",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "34452794",
+      "name": "cart-full",
+      "font_class": "cart-full",
+      "unicode": "e826",
+      "unicode_decimal": 59430
+    },
+    {
+      "icon_id": "34453038",
+      "name": "right",
+      "font_class": "right",
+      "unicode": "e840",
+      "unicode_decimal": 59456
+    },
+    {
+      "icon_id": "36139811",
+      "name": "整理",
+      "font_class": "zhengli",
+      "unicode": "e6e4",
+      "unicode_decimal": 59108
+    },
+    {
+      "icon_id": "36195796",
+      "name": "商品管理",
+      "font_class": "shangpinguanli",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "36077499",
+      "name": "列表排列",
+      "font_class": "liebiaopailie",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "35966623",
+      "name": "下拉",
+      "font_class": "xiala",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "36101039",
+      "name": "下箭头",
+      "font_class": "xiajiantou",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    }
+  ]
+}
